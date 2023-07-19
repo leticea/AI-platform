@@ -43,3 +43,18 @@ main {
   border: 1px solid var(--gray-04, #334155);
   background: rgba(2, 6, 23, 0.8);
 }
+
+header div img {
+  display: flex;
+  align-items: center;
+  padding: 12px;
+  border-radius: 16px;
+  border: 1px solid var(--gray-05, #1e293b);
+  background: var(--gray-06, #0f172a);
+}
+
+h1 {
+  color: var(--gray-01, #f8fafc);
+  font-size: 32px;
+  font-weight: 600;
+}
