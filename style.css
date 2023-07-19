@@ -44,6 +44,10 @@ main {
   background: rgba(2, 6, 23, 0.8);
 }
 
+header {
+  margin-bottom: -16px;
+}
+
 header div img {
   display: flex;
   align-items: center;
@@ -116,8 +120,6 @@ span {
   gap: 16px;
   align-items: center;
   width: 100%;
-
-  border: 1px solid red;
 }
 
 .prompt > div {
@@ -150,4 +152,15 @@ input::placeholder {
 
 .ph-paper-plane-right {
   color: var(--color-gray-01);
+}
+
+.ph-paper-plane-right:hover {
+  color: var(--color-gray-03, #94a3b8);
+  transition: all 0.2s;
+}
+
+.tools,
+.prompt button,
+.ph-plus-circle {
+  cursor: pointer;
 }
