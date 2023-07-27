@@ -178,6 +178,12 @@ Projetos #boraCodar da [Rocketseat](https://boracodar.dev/).
       <td>12/07/23</td>
       <td><a href="https://github.com/leticea/page-not-found">🔗</a></td>
     </tr>
+    <tr>
+      <td>29</td>
+      <td>Before and After Interface</td>
+      <td>26/07/23</td>
+      <td><a href="https://github.com/leticea/before-after-interface">🔗</a></td>
+    </tr>
   </tbody>
 </table>
 
